@@ -8,4 +8,4 @@ Hierarchical view rendering for minecraft with animation support and an anchor b
 ![Version](https://img.shields.io/github/v/tag/lunekiska/kigui?label=version&style=flat-square&color=orange)
 ![Avaible for](https://img.shields.io/static/v1?label=Avaible%20for&style=flat-square&color=yellow&message=1.17)
 
-Original mgui here **[mgui](https://github.com/mickelus/mgui)** 
+Original mgui/mutil here **[mgui/mutil](https://github.com/mickelus/mutil)** 
